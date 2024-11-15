@@ -43,9 +43,13 @@ Long-term, I aim to:
 
 # Contact Info
 📧 Email: afletunova.yulia@gmail.com
+
 💼 LinkedIn: linkedin.com/in/afletunova
+
 📁 GitHub: github.com/afletunova
+
 🐦 Twitter: twitter.com/YAfletunova
+
 🌍 Location: Berlin, Germany
 
 # Certificates (in progress)
