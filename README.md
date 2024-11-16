@@ -3,7 +3,7 @@
 
 ## About me
 
-Hi! I'm Julia, and I've been passionate about data for over 10 years, with more than 5 years in various roles ranging from **Product Owner** to **Data Scientist**. My goal has been to gain as much expertise as possible across different areas.
+Hi! I'm Yulia, and I've been passionate about data for over 10 years, with more than 5 years in various roles ranging from **Product Owner** to **Data Scientist**. My goal has been to gain as much expertise as possible across different areas.
 
 I have worked in **EdTech** at Inquisitive (formerly MEL Science), **FinTech** at [3commas.io](http://3commas.io/), and **BigTech** at Yandex.Search. Throughout my career, I've developed expertise in Python, SQL (PostgreSQL), A/B testing, and product thinking.
 
@@ -42,13 +42,13 @@ Long-term, I aim to:
 - Mentor and support aspiring data analysts through educational initiatives.
 
 # Contact Info
-📧 Email: afletunova.yulia@gmail.com
+📧 Email: [afletunova.yulia@gmail.com](mailto:afletunova.yulia@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/afletunova
+💼 LinkedIn: [linkedin.com/in/afletunova](https://www.linkedin.com/in/afletunova/)
 
-📁 GitHub: github.com/afletunova
+📁 GitHub: [github.com/afletunova](https://github.com/afletunova)
 
-🐦 Twitter: twitter.com/YAfletunova
+🐦 Twitter: [twitter.com/YAfletunova](https://twitter.com/YAfletunova)
 
 🌍 Location: Berlin, Germany
 
