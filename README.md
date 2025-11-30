@@ -3,13 +3,13 @@
 
 ## About me
 
-Hi! I'm Yulia, and I've been passionate about data for over 10 years, with more than 5 years in various roles ranging from **Product Owner** to **Data Scientist**. My goal has been to gain as much expertise as possible across different areas.
+Hi! I'm Yulia, and I've been passionate about data for over 10 years, with more than 7 years in various roles ranging from **Product Owner** to **Data Platform Engineer** and **Data Scientist**. My goal has been to gain as much expertise as possible across different areas.
 
-I have worked in **EdTech** at Inquisitive (formerly MEL Science), **FinTech** at [3commas.io](http://3commas.io/), and **BigTech** at Yandex.Search. Throughout my career, I've developed expertise in Python, SQL (PostgreSQL), A/B testing, and product thinking.
+I have worked in **EdTech** at Inquisitive (formerly MEL Science), **FinTech** at [3commas.io](http://3commas.io/), and **BigTech** at Yandex.Search and most recently in an early-stage startup [Emerge](https://www.emergedata.ai/), building a privacy-first data platform. Throughout my career, I've developed expertise in Python, SQL (PostgreSQL), A/B testing, and product thinking.
 
 Additionally, I founded the Russian-speaking community **Analyst Girls Club** for women in analytics, which encompasses data analytics as well as systems and business analytics. In my spare time, I mentor individuals looking to enter or advance in this field.
 
-Currently, my professional growth interests focus on enhancing my soft skills, improving my ability to sell ideas, and creating a structured approach for metric selection and A/B testing that is comprehensible to both technical and non-technical audiences.
+My interests bridge technical depth with interdisciplinary exploration. I like understanding how signals, systems, and minds create meaning.
 
 Outside of work, I study Computational Neuroscience and Bioinformatics.
 
@@ -17,22 +17,27 @@ I am always interested in meeting new people and finding like-minded people in d
 
 Email me at: [afletunova.yulia@gmail.com](mailto:afletunova.yulia@gmail.com)
 
+## Recent Work — Building a Privacy-First Data Platform
+In the last six months, I architected and developed the company’s data platform using **Python**, **dbt**, **Airflow**, and **ClickHouse**. My contributions covered ingestion, transformations, storage, metadata, orchestration, and production stabilisation.
+
 ## Core Skills
 
-- **Programming**: Python (pandas, NumPy, scikit-learn, Matplotlib, Seaborn), SQL (PostgreSQL)
-- **Data Visualization**: Matplotlib, Seaborn, Plotly, DataLens
-- **Data Analysis**: A/B Testing, Statistical Analysis, ETL Processes, Hypothesis Testing
-- **Tools**: Jupyter Notebook, Git, Airflow
-- **Soft Skills**: Research-Oriented Mindset, Collaboration, Stakeholder Communication, Analytical Thinking, Mentoring
+- **Data & Analytics**: A/B testing design & evaluation, statistical analysis, hypothesis testing, product analytics, metrics selection, ETL development, data modelling
+- **Engineering & Platform Work**: Python, SQL (PostgreSQL, ClickHouse), dbt, Airflow, API design, ingestion pipelines
+- **Visualisation & Communication**: Plotly, Matplotlib, Seaborn, DataLens, Metabase, insight communication for technical & non-technical audiences, writing documentation, onboarding guides, and architectural explanations
+- **Soft Skills**: Research-oriented mindset, problem decomposition, systems thinking, mentoring, and knowledge sharing
 
 # Featured Projects (in progress)
+
+## Certifications
+- **Neuromatch Academy** [certificate in computational neuroscience](https://portal.neuromatchacademy.org/certificate/2e9f4722-d167-4499-893f-d0dd69ce1198)
 
 # Career Goals
 
 Currently, my professional goals include:
 
-- Improving my ability to effectively communicate and sell data-driven ideas to stakeholders.
-- Creating structured methodologies for selecting metrics and conducting A/B tests that are universally understandable.
+- Creating transparent and fair methods for using large-scale data responsibly.
+- Understanding how human minds work and how behaviour evolves, ideally quantified through data.
 - Expanding my expertise in computational neuroscience and bioinformatics to explore the intersection of data science and human health, especially mental health.
 
 Long-term, I aim to:
