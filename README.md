@@ -3,7 +3,7 @@
 
 ## About me
 
-Hi! I'm Yulia, and I've been passionate about data for over 10 years, with more than 7 years in various roles ranging from **Product Owner** to **Data Platform Engineer** and **Data Scientist**. My goal has been to gain as much expertise as possible across different areas.
+Hi, I’m Yulia. I have 7+ years of professional experience working across **product ownership**, **analytics**, and **data platform engineering**. I focus on designing and owning decision-making systems -- from metrics and experimentation frameworks to the data infrastructure behind high-stakes products.
 
 I have worked in **EdTech** at Inquisitive (formerly MEL Science), **FinTech** at [3commas.io](http://3commas.io/), and **BigTech** at Yandex.Search and most recently in an early-stage startup [Emerge](https://www.emergedata.ai/), building a privacy-first data platform. Throughout my career, I've developed expertise in Python, SQL (PostgreSQL), A/B testing, and product thinking.
 
