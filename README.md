@@ -18,7 +18,7 @@ I am always interested in meeting new people and finding like-minded people in d
 Email me at: [afletunova.yulia@gmail.com](mailto:afletunova.yulia@gmail.com)
 
 ## Recent Work — Building a Privacy-First Data Platform
-In the last six months, I architected and developed the company’s data platform using **Python**, **dbt**, **Airflow**, and **ClickHouse**. My contributions covered ingestion, transformations, storage, metadata, orchestration, and production stabilisation.
+In the last year months, I architected and developed the company’s data platform using **Python**, **dbt**, **Airflow**, and **ClickHouse**. My contributions covered ingestion, transformations, storage, metadata, orchestration, and production stabilisation.
 
 ## Core Skills
 
