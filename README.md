@@ -3,17 +3,13 @@
 
 ## About me
 
-Hi, I’m Yulia. I have 7+ years of professional experience working across **product ownership**, **analytics**, and **data platform engineering**. I focus on designing and owning decision-making systems -- from metrics and experimentation frameworks to the data infrastructure behind high-stakes products.
+Hi, I’m Yulia. A data analyst and engineer with 8+ years across product analytics, experimentation, and data platform work, now deepening into computational neuroscience.
 
-I have worked in **EdTech** at Inquisitive (formerly MEL Science), **FinTech** at [3commas.io](http://3commas.io/), and **BigTech** at Yandex.Search and most recently in an early-stage startup [Emerge](https://www.emergedata.ai/), building a privacy-first data platform. Throughout my career, I've developed expertise in Python, SQL (PostgreSQL), A/B testing, and product thinking.
+My background covers EdTech ([MEL Science](https://melscience.com/)), FinTech ([3commas.io](http://3commas.io/)), [Yandex](https://yandex.com/).Search, and most recently [Emerge](https://www.emergedata.ai/), an early-stage startup building a privacy-first data platform. Across these, I've built expertise in Python, SQL, A/B testing, and product thinking. I'm open to data roles (analytics, engineering, data science) where that depth is useful.
 
-Additionally, I founded the Russian-speaking community **Analyst Girls Club** for women in analytics, which encompasses data analytics as well as systems and business analytics. In my spare time, I mentor individuals looking to enter or advance in this field.
+In parallel, I'm working toward research in neural data. I co-authored an ECoG study at Neuromatch Academy 2025 — investigating how visual noise affects high-gamma response latency in the fusiform gyrus during face recognition — where I originated the hypothesis and built the first version of the signal processing pipeline.
 
-My interests bridge technical depth with interdisciplinary exploration. I like understanding how signals, systems, and minds create meaning.
-
-Outside of work, I study Computational Neuroscience and Bioinformatics.
-
-I am always interested in meeting new people and finding like-minded people in different fields. So feel free to drop me a message and get to know me, or ask questions if you think I can help. 
+I founded Analyst Girls Club, a Russian-speaking community for women in analytics, because I believe good work happens when people learn together. I'm always open to meeting collaborators, researchers, and people doing interesting things at the edges of data and mind.
 
 Email me at: [afletunova.yulia@gmail.com](mailto:afletunova.yulia@gmail.com)
 
@@ -26,8 +22,17 @@ In the last year, I architected and developed the company’s data platform usin
 - **Engineering & Platform Work**: Python, SQL (PostgreSQL, ClickHouse), dbt, Airflow, API design, ingestion pipelines
 - **Visualisation & Communication**: Plotly, Matplotlib, Seaborn, DataLens, Metabase, insight communication for technical & non-technical audiences, writing documentation, onboarding guides, and architectural explanations
 - **Soft Skills**: Research-oriented mindset, problem decomposition, systems thinking, mentoring, and knowledge sharing
+- **Neuroscience & Signal Processing**: ECoG/LFP data analysis, high-gamma band power extraction, trial-epoch alignment, stimulus-response latency estimation, working with open neurophysiology datasets (Kai Miller ECoG library); Python-based neural data pipelines (MNE-adjacent workflows, NumPy/SciPy signal processing)
 
-# Featured Projects (in progress)
+# Featured Projects
+## ECoG Study: Visual Noise & Neural Response Latency in Face Recognition
+*Neuromatch Academy 2025 · Computational Neuroscience*
+
+Investigated how visual noise in face images affects high-gamma ECoG response latency in the fusiform gyrus during correct face recognition trials.
+
+I brought the original hypothesis to the team and wrote the first draft of the analysis pipeline. The project covers end-to-end neural data analysis: data ingestion from the Kai Miller ECoG library, electrode-to-region mapping, trial epoching, high-gamma band power extraction, and latency estimation across 7 epileptic patients.
+
+→ [ecog-noisy-faces-recognition](https://github.com/obayalalousi/ecog-noisy-faces-recognition) · [pipeline draft (RECAP)](https://github.com/afletunova/RECAP)
 
 ## Certifications
 - **Neuromatch Academy** [certificate in computational neuroscience](https://portal.neuromatchacademy.org/certificate/2e9f4722-d167-4499-893f-d0dd69ce1198)
